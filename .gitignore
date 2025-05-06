@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Mac or system files
+.DS_Store
+
+# DB hoặc dữ liệu người dùng tạm
+*.sqlite3
+data/
+
+venv/
+.idea/
